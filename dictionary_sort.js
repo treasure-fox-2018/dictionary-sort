@@ -17,3 +17,4 @@ for(let i=0; i<arr.length; i++){
 
 console.log(dictionary(arrOfWord)); //duduk,makan,terbang,tidur
 console.log(dictionary(arrOfName)); //angga,anggi,adi,ani
+module.exports = Dictionary
